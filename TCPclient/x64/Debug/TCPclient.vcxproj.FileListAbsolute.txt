@@ -1,0 +1,2 @@
+C:\Users\mr_tr\source\repos\TCPclient\x64\Debug\TCPclient.exe
+C:\Users\VtBACH\Downloads\TCP\TCPclient\x64\Debug\TCPclient.exe

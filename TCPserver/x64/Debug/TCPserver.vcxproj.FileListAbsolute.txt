@@ -1,0 +1,2 @@
+C:\Users\mr_tr\source\repos\TCPserver\x64\Debug\TCPserver.exe
+C:\Users\VtBACH\Downloads\TCP\TCPserver\x64\Debug\TCPserver.exe
